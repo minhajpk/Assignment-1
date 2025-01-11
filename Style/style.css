@@ -1,0 +1,164 @@
+nav{
+    margin: 0;
+    padding: 24px 160px;
+}
+nav ul li{
+list-style: none;
+}
+.bangladesh{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+#btn-1 {
+    padding: 10px 20px;
+    color: #006A50;
+    border: 1px, solid #006A50;
+    
+    font-size: 18px;
+    font-weight: 600px;
+    background-color: #FFFF;
+}
+.banner{
+   margin: 160px;
+    padding: 100px 80px;
+    display: flex;
+    align-items: center;
+    width: 1280px;
+    height: 560px;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+    
+}
+.image{
+    width: 474px;
+    height: 400px;
+}
+.ban{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #928686;
+   font-size: 24px;
+}
+.description{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 56px;
+font-weight: bold;
+
+
+}
+.primary-btn{
+    padding: 17px 34px;
+    background-color: #006A50;
+    border: none;
+    border-radius: 10px;
+    color: #FFFF;
+    font-size: 18px;
+    font-weight: 600px;
+   margin-top: 60px;
+    margin-bottom: 80px;
+}
+.image{
+    margin-bottom: 80px;
+    margin-top: 60px;
+}
+/* 1st section */
+
+.vision-container{
+    display: flex;
+    margin-top: 32px;
+}
+.visions{
+    width: 1280px;
+    height: 765px;
+    margin: 160px;
+    margin-top: 60px;
+    
+}
+.vision-container{
+    margin-right: 15px;
+    gap: 40px;
+    align-items: center;
+
+    
+}
+.vision-1{
+    border: none ;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background-color: #9ec1f1;
+    width: 500px;
+    height: 290px;
+}
+.vision-2{
+    border: none;
+    padding: 32px;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background-color: #C6E4D6;
+    width: 500px;
+    height: 290px;
+}
+.vision-3{
+    border: none;
+    padding: 32px;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background-color: #FFF7DF;
+    width: 500px;
+    height: 290px;
+}
+.main-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.vision-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #141414;
+}
+.main-description{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #636363;
+}
+.vision-description{
+    margin-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    color: #636363;
+}
+.button-1{
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #5490F5;
+}
+.button-2{
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #09A15C;
+}
+.button-3{
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFC239;
+   
+}
+
